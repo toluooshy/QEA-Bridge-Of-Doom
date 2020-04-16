@@ -1,4 +1,5 @@
-# QEA-Bridge-Of-Doom
+## QEA Bridge Of Doom
+#### Tolulope Oshinowo 
 Documentation of my QEA1 Project.
 
 ### The Write-Up
